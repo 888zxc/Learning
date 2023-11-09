@@ -4,3 +4,9 @@
 [submodule "Node-js-learning"]
 	path = Node-js-learning
 	url = git@github.com:888zxc/Node-js-learning.git
+[submodule "Rust-learning"]
+	path = Rust-learning
+	url = git@github.com:888zxc/Rust-learning.git
+[submodule "go-learning"]
+	path = go-learning
+	url = git@github.com:888zxc/go-learning.git
