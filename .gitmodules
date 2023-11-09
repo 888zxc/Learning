@@ -1,0 +1,6 @@
+[submodule "mojo-learing"]
+	path = mojo-learing
+	url = git@github.com:888zxc/mojo-learing.git
+[submodule "Node-js-learning"]
+	path = Node-js-learning
+	url = git@github.com:888zxc/Node-js-learning.git
